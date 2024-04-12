@@ -8,14 +8,35 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Lilibtc's Blog
+tagline: The prediction is accurate and the investment will not lose money
+description : One of the top 1% blockchain investment experts in Huobi. CFA I level.  I studied under Ken Gleason, Vice President of the Risk Management Department of Goldman Sachs. Total return in 5 years exceeded 50 times. He offers 100% annual return trading signal.
+
+# These are for showing a page icon. 
+# They are currently not used in the theme.
+# page_icon: "cog"
+# page_icon_image: "/assets/images/logo28.png"
+
+# These are for showing a feed icon for posts. 
+# They are currently not used in the theme.
+# feed_icon: "/assets/images/rss.jpg"
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Li Li
+  email : 348104201@qq.com
+  github : franklili3
+  twitter : lilibtc1
+  bio : "The prediction is accurate and the investment will not lose money"
+  first_name : Li
+  last_name : Li
+  
+# Owner/author information
+#
+# Note: If you leave the author fields blank, the site and author
+# info won't show up in the site metadata.
+#
+# You can also add profile links to any of these by adding
+# 'account' fields. For example, for the LinkedIn URL:
+  # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +46,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://franklili3.github.io
 
 gems: ["jekyll-sitemap"]
 
