@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lilibtc's Blog
-tagline: The prediction is accurate and the investment will not lose money
+title: Lilibtc
+tagline: 预测超准确 投资不亏损
 ---
 {% include JB/setup %}
 
